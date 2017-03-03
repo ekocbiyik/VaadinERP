@@ -73,7 +73,7 @@ public final class DashboardMenu extends CustomComponent {
 
     private Component buildTitle() {
 
-        Label logo = new Label("<strong>Java</strong> Server", ContentMode.HTML);
+        Label logo = new Label("<strong>Vaadin</strong> ERP", ContentMode.HTML);
         logo.setSizeUndefined();
 
         HorizontalLayout logoWrapper = new HorizontalLayout(logo);

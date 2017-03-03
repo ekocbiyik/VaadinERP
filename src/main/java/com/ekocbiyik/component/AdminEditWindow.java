@@ -34,6 +34,8 @@ import com.vaadin.ui.TextField;
 import com.vaadin.ui.VerticalLayout;
 import com.vaadin.ui.Window;
 import com.vaadin.ui.themes.ValoTheme;
+import de.steinwedel.messagebox.ButtonOption;
+import de.steinwedel.messagebox.MessageBox;
 
 /**
  * Created by enbiya on 31.12.2016.
@@ -219,7 +221,18 @@ public class AdminEditWindow extends Window {
                 admin.setPhone(txtPhone.getValue());
                 admin.setInActive((Boolean) cbxActive.getValue());
 
-                userService.save(admin);
+                MessageBox.createQuestion()
+                        .withCaption("Uyarı!")
+                        .withMessage("Güncelleme yapmak istediğinizden emin misiniz?")
+                        .withYesButton(() -> {
+                            userService.save(admin);
+                        }, ButtonOption.caption("Evet"))
+                        .withNoButton(() -> {
+                            close();
+                        }, ButtonOption.caption("Hayır"))
+                        .open();
+
+
 
                 Notification success = new Notification("Admin has been updated successfully");
                 success.setDelayMsec(2000);
