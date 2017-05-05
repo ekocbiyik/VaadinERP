@@ -9,17 +9,6 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-
-
-
-
-
-
-
-
-
-
-
     <!-- bu kısım war dosyası oluşturmak için önemli-->
     <!-- Maven Project tabına tıklayın(sağ panelde) -->
     <!-- clean-install yapın/ build success ise package üzerine çift tıklayın -->
