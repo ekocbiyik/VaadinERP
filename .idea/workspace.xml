@@ -2,13 +2,183 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b54811b-6948-4517-ba62-d4d74e80a0b5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/VaadinERP_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/VaadinERP_war_exploded.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT.war" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/addons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/common.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/dashboard.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/favicon2.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/favicon3.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/app-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/draft-report-thumb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/ekocbiyik.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/empty-poster.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/event-title-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/notes-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/palette-chart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/palette-grid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/palette-text.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/poster-gloss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/img/profile-pic-300px.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/styles.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/styles.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/views/dashboardview.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/views/login.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/views/reports.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/views/sales.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/views/schedule.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/VAADIN/themes/dashboard/views/transactions.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/DBDefaultValues.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/DashboardNavigator$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/DashboardNavigator$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/DashboardNavigator$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/DashboardNavigator.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/MainUI$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/MainUI.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/UtilsForSpring.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/AccountEditWindow$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/AccountEditWindow$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/AccountEditWindow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/AdminEditWindow$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/AdminEditWindow$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/AdminEditWindow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/CompanyEditWindow$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/CompanyEditWindow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/OfficeEditWindow$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/OfficeEditWindow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/SerialSearchWindow$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/component/SerialSearchWindow.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/dao/CompanyDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/dao/ICompanyDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/dao/IOfficeDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/dao/IResourceRecordsDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/dao/IUserDao.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/dao/OfficeDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/dao/ResourceRecordsDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/dao/UserDaoImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/enums/EUserRole.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent$BrowserResizeEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent$CloseOpenWindowsEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent$NotificationsCountUpdatedEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent$PostViewChangeEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent$ProfileUpdatedEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent$ReportsCountUpdatedEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent$UserLoggedOutEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent$UserLoginRequestedEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEvent.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/event/DashboardEventBus.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/model/Company.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/model/Office.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/model/ResourceRecords.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/model/User.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/service/CompanyServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/service/ICompanyService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/service/IOfficeService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/service/IResourceRecordService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/service/IUserService.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/service/OfficeServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/service/ResourceRecordServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/service/UserServiceImpl.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/DashboardMenu$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/DashboardMenu$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/DashboardMenu$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/DashboardMenu$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/DashboardMenu$ValoMenuItemButton.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/DashboardMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/DashboardViewType.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/LoginView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/LoginView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/MainView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/account/AccountDashboardView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/account/OfficeReportsView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/account/OfficeReportsView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/account/OfficeReportsView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/account/OfficeReportsView$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/account/OfficeReportsView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminDashboardView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminNewAccountView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminNewAccountView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminNewOfficeView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminNewOfficeView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminShowAccountsView$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminShowAccountsView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminShowAccountsView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminShowOfficesView$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminShowOfficesView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/adminrole/AdminShowOfficesView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/dashboard/DashboardView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/dashboard/DashboardView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysAdminDashboardView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysNewAdminView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysNewAdminView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysNewCompanyView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysNewCompanyView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysShowAccountsView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysShowAdminsView$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysShowAdminsView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysShowAdminsView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysShowCompaniesView$1$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysShowCompaniesView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysShowCompaniesView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/com/ekocbiyik/view/sysadminrole/SysShowOfficesView.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/hibernate-config.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/hibernate.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/classes/log4j.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/atmosphere-runtime-2.2.9.vaadin2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/commons-beanutils-1.9.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/commons-collections-3.2.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/commons-io-2.4.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.3.2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/confirmdialog-2.1.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/ehcache-core-2.4.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/flute-1.3.0.gg2.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/googleanalyticstracker-2.1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/guava-19.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/h2-1.4.192.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-4.0.2.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-4.2.2.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/hibernate-ehcache-4.2.2.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-4.2.2.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.15.0-GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.0.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.1.0.GA.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/jsoup-1.8.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/maddon-1.15.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/markdown4j-2.2-cj-1.0.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/sac-1.3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-context-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-core-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-orm-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-test-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-web-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.2.RELEASE.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/vaadin-client-compiled-7.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/vaadin-push-7.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/vaadin-sass-compiler-0.9.13.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/vaadin-server-7.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/vaadin-shared-7.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/vaadin-slf4j-jdk14-1.6.1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/lib/vaadin-themes-7.7.6.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/JavaboxServer-1.0-SNAPSHOT/index.jsp" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ekocbiyik/component/AdminEditWindow$1.class" afterPath="$PROJECT_DIR$/target/classes/com/ekocbiyik/component/AdminEditWindow$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ekocbiyik/component/AdminEditWindow$2.class" afterPath="$PROJECT_DIR$/target/classes/com/ekocbiyik/component/AdminEditWindow$2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/ekocbiyik/component/AdminEditWindow.class" afterPath="$PROJECT_DIR$/target/classes/com/ekocbiyik/component/AdminEditWindow.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/VaadinERP.iml" afterPath="$PROJECT_DIR$/VaadinERP.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ekocbiyik/component/AdminEditWindow.java" afterPath="$PROJECT_DIR$/src/main/java/com/ekocbiyik/component/AdminEditWindow.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/ekocbiyik/view/DashboardMenu.java" afterPath="$PROJECT_DIR$/src/main/java/com/ekocbiyik/view/DashboardMenu.java" />
     </list>
     <ignored path="JavaboxServer.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,35 +200,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MainUI.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ekocbiyik/MainUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
-              <folding>
-                <element signature="method#closeOpenWindows#0;class#MainUI#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdminEditWindow.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/ekocbiyik/component/AdminEditWindow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="225" column="56" selection-start-line="225" selection-start-column="56" selection-end-line="225" selection-end-column="56" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+            <state relative-caret-position="357">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,8 +282,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/ekocbiyik/component/OfficeEditWindow.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ekocbiyik/view/DashboardMenu.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/ekocbiyik/view/sysadminrole/SysNewAdminView.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/ekocbiyik/component/AdminEditWindow.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -167,16 +313,41 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState />
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="VaadinERP" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="VaadinERP" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
   </component>
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1912" />
-    <option name="y" value="129" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -204,7 +375,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -234,308 +404,13 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VAADIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekocbiyik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekocbiyik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekocbiyik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sysadminrole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekocbiyik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="view" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adminrole" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekocbiyik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekocbiyik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dao" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="VaadinERP" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ekocbiyik" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="component" />
+              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -543,7 +418,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/workspace/Ahenk" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1375,6 +1250,8 @@
       <workItem from="1487690045035" duration="1113000" />
       <workItem from="1487764468385" duration="4894000" />
       <workItem from="1488443381633" duration="7385000" />
+      <workItem from="1493965357570" duration="44000" />
+      <workItem from="1493965541465" duration="669000" />
     </task>
     <servers />
   </component>
@@ -1411,17 +1288,17 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="257151000" />
+    <option name="totallyTimeSpent" value="257864000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="129" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30016312" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27675676" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1429,26 +1306,26 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23277183" sideWeight="0.494705" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2325926" sideWeight="0.494705" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19675675" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15783784" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3132137" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28290468" sideWeight="0.48230088" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28290468" sideWeight="0.48230088" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17590618" sideWeight="0.5052317" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2730711" sideWeight="0.52202284" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21696573" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19296375" sideWeight="0.5176991" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19675675" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21696573" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1578,7 +1455,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="66" column="61" selection-start-line="66" selection-start-column="61" selection-end-line="66" selection-end-column="61" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1623,7 +1499,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="172" column="57" selection-start-line="172" selection-start-column="57" selection-end-line="172" selection-end-column="57" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1740,7 +1615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="123">
           <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1945,7 +1819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="884">
           <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1973,9 +1846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="209" column="29" selection-start-line="209" selection-start-column="29" selection-end-line="209" selection-end-column="29" />
-          <folding>
-            <element signature="method#clearFormFields#0;class#SysNewCompanyView#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1983,7 +1853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1150">
           <caret line="240" column="42" selection-start-line="240" selection-start-column="42" selection-end-line="240" selection-end-column="42" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1991,13 +1860,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="47">
           <caret line="64" column="39" selection-start-line="64" selection-start-column="39" selection-end-line="64" selection-end-column="39" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ekocbiyik/component/AdminEditWindow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="225" column="56" selection-start-line="225" selection-start-column="56" selection-end-line="225" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ekocbiyik/MainUI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="731">
+        <state relative-caret-position="17">
           <caret line="75" column="32" selection-start-line="75" selection-start-column="32" selection-end-line="75" selection-end-column="32" />
           <folding>
             <element signature="method#closeOpenWindows#0;class#MainUI#0" expanded="false" />
@@ -2007,19 +1885,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="357">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ekocbiyik/component/AdminEditWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="225" column="56" selection-start-line="225" selection-start-column="56" selection-end-line="225" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

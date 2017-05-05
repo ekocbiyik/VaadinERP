@@ -9,6 +9,34 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+
+
+
+
+
+
+
+
+
+
+
+    <!-- bu kısım war dosyası oluşturmak için önemli-->
+    <!-- Maven Project tabına tıklayın(sağ panelde) -->
+    <!-- clean-install yapın/ build success ise package üzerine çift tıklayın -->
+    <!-- proje dizininde target altında oluşan war dosyasını web sunucunuzda deploy edebilirsiniz -->
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-war-plugin</artifactId>
+                <version>2.3</version>
+                <configuration>
+                    <failOnMissingWebXml>false</failOnMissingWebXml>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
